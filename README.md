@@ -18,10 +18,15 @@ First. Bridge
 ![](./images/bridge.png)
 
 
-Second. 
+Second. Command
 ---------
 
+#### PS
+> There are tow objects and they have common method, We can use their interface to invoke it.
 
+#### UML graphy
+
+![](./images/command.png)
 
 
 
