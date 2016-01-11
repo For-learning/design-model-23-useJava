@@ -1,4 +1,4 @@
-design-model-23-useJava
+23种设计模式全解析
 =======================
 
 This document is used to indicate the program design model. I will cite **JAVA** language to show it.
